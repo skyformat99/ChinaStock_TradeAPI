@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?watermark value="d4cc503198786e1b4c85b965cce2c4d6"?>
+<ProfileOfOEM>
+	<QsTags>
+		<ITEM Qsid="117" Qsjc="MNCS" Qsmc="模拟测试"/>
+		<ITEM Qsid="118" Qsjc="MNCS" Qsmc="模拟操盘"/>
+		<ITEM Qsid="1" Qsjc="CJZQ" Qsmc="长江证券"/>
+		<ITEM Qsid="2" Qsjc="DYCY" Qsmc="第一创业"/>
+		<ITEM Qsid="3" Qsjc="DGZQ" Qsmc="东莞证券"/>
+		<ITEM Qsid="4" Qsjc="GXZQ" Qsmc="国信证券"/>
+		<ITEM Qsid="6" Qsjc="LHZQ" Qsmc="联合证券"/>
+		<ITEM Qsid="7" Qsjc="PAZQ" Qsmc="平安证券"/>
+		<ITEM Qsid="12" Qsjc="GFZQ" Qsmc="广发证券"/>
+		<ITEM Qsid="13" Qsjc="DTZQ" Qsmc="大通证券"/>
+		<ITEM Qsid="14" Qsjc="HXZQ" Qsmc="华西证券"/>
+		<ITEM Qsid="15" Qsjc="XYZQ" Qsmc="兴业证券"/>
+		<ITEM Qsid="16" Qsjc="ZSZQ" Qsmc="招商证券"/>
+		<ITEM Qsid="17" Qsjc="JYDT" Qsmc="金元证券"/>
+		<ITEM Qsid="18" Qsjc="ZXJT" Qsmc="中信建投"/>
+		<ITEM Qsid="19" Qsjc="YNHT" Qsmc="红塔证券"/>
+		<ITEM Qsid="20" Qsjc="CCZQ" Qsmc="长城证券"/>
+		<ITEM Qsid="21" Qsjc="HYZQ" Qsmc="宏源证券"/>
+		<ITEM Qsid="22" Qsjc="GTJA" Qsmc="国泰君安"/>
+		<ITEM Qsid="23" Qsjc="SJZQ" Qsmc="世纪证券"/>
+		<ITEM Qsid="24" Qsjc="AXZQ" Qsmc="安信证券"/>
+		<ITEM Qsid="24" Qsjc="AXZQ" Qsmc="安信信用"/>
+		<ITEM Qsid="25" Qsjc="CFZQ" Qsmc="财富证券"/>
+		<ITEM Qsid="26" Qsjc="DXZQ" Qsmc="东兴证券"/>
+		<ITEM Qsid="27" Qsjc="YHZQ" Qsmc="银河证券"/>
+		<ITEM Qsid="27" Qsjc="YHZQ" Qsmc="银河VIP"/>
+		<ITEM Qsid="28" Qsjc="GDZQ" Qsmc="光大证券"/>
+		<ITEM Qsid="29" Qsjc="YDZQ" Qsmc="英大证券"/>
+		<ITEM Qsid="30" Qsjc="DBZQ" Qsmc="德邦证券"/>
+		<ITEM Qsid="31" Qsjc="NJZQ" Qsmc="南京证券"/>
+		<ITEM Qsid="31" Qsjc="NZOES" Qsmc="南证OES"/>
+		<ITEM Qsid="32" Qsjc="ZXZQ" Qsmc="中信证券"/>
+		<ITEM Qsid="33" Qsjc="SHZQ" Qsmc="上海证券"/>
+		<ITEM Qsid="34" Qsjc="HBZQ" Qsmc="华宝证券"/>
+		<ITEM Qsid="35" Qsjc="AJZQ" Qsmc="爱建证券"/>
+		<ITEM Qsid="36" Qsjc="QLZQ" Qsmc="齐鲁证券"/>
+		<ITEM Qsid="37" Qsjc="ZYGJ" Qsmc="中银国际"/>
+		<ITEM Qsid="38" Qsjc="MZZQ" Qsmc="民族证券"/>
+		<ITEM Qsid="39" Qsjc="XCZQ" Qsmc="湘财证券"/>
+		<ITEM Qsid="40" Qsjc="GJZQ" Qsmc="国金证券"/>
+		<ITEM Qsid="42" Qsjc="GLZQ" Qsmc="国联证券"/>
+		<ITEM Qsid="41" Qsjc="SCZQ" Qsmc="首创证券"/>
+		<ITEM Qsid="43" Qsjc="HLZQ" Qsmc="华林证券"/>
+		<ITEM Qsid="45" Qsjc="GYZQ" Qsmc="国元证券"/>
+		<ITEM Qsid="46" Qsjc="GZZQ" Qsmc="广州证券"/>
+		<ITEM Qsid="47" Qsjc="FZZQ" Qsmc="方正证券"/>
+		<ITEM Qsid="48" Qsjc="BHZQ" Qsmc="渤海证券"/>
+		<ITEM Qsid="48" Qsjc="BHZQ" Qsmc="渤海信用"/>
+		<ITEM Qsid="49" Qsjc="XNZQ" Qsmc="西南证券"/>
+		<ITEM Qsid="50" Qsjc="XSDZQ" Qsmc="新时代证券"/>
+		<ITEM Qsid="51" Qsjc="ZTZQ" Qsmc="中投证券"/>
+		<ITEM Qsid="52" Qsjc="HRZQ" Qsmc="华融证券"/>
+		<ITEM Qsid="53" Qsjc="SYWG" Qsmc="申银万国"/>
+		<ITEM Qsid="54" Qsjc="SHHX" Qsmc="华鑫证券"/>
+		<ITEM Qsid="55" Qsjc="NJHT" Qsmc="华泰证券"/>
+		<ITEM Qsid="56" Qsjc="JLDB" Qsmc="东北证券"/>
+		<ITEM Qsid="57" Qsjc="MSZQ" Qsmc="民生证券"/>
+		<ITEM Qsid="58" Qsjc="SXDT" Qsmc="大同证券"/>
+		<ITEM Qsid="59" Qsjc="GXZQ" Qsmc="众成证券"/>
+		<ITEM Qsid="60" Qsjc="XMZQ" Qsmc="厦门证券"/>
+		<ITEM Qsid="61" Qsjc="DFZQ" Qsmc="东方证券"/>
+		<ITEM Qsid="62" Qsjc="YTZQ" Qsmc="银泰证券"/>
+		<ITEM Qsid="67" Qsjc="SXDT" Qsmc="江南证券"/>
+		<ITEM Qsid="68" Qsjc="WHZQ" Qsmc="万和证券"/>
+		<ITEM Qsid="69" Qsjc="GKZQ" Qsmc="国开证券"/>
+		<ITEM Qsid="70" Qsjc="ZXWT" Qsmc="中信万通"/>
+		<ITEM Qsid="71" Qsjc="XDZQ" Qsmc="信达证券"/>
+		<ITEM Qsid="72" Qsjc="WKZQ" Qsmc="五矿证券"/>
+		<ITEM Qsid="73" Qsjc="JHZQ" Qsmc="江海证券"/>
+		<ITEM Qsid="74" Qsjc="HCZQ" Qsmc="华创证券"/>
+		<ITEM Qsid="75" Qsjc="TPYZQ" Qsmc="太平洋证券"/>
+		<ITEM Qsid="76" Qsjc="GHZQ" Qsmc="国海证券"/>
+		<ITEM Qsid="77" Qsjc="DHZQ" Qsmc="东海证券"/>
+		<ITEM Qsid="78" Qsjc="XBZQ" Qsmc="西部证券"/>
+		<ITEM Qsid="79" Qsjc="SXZQ" Qsmc="山西证券"/>
+		<ITEM Qsid="80" Qsjc="KYZQ" Qsmc="开源证券"/>
+		<ITEM Qsid="81" Qsjc="HAHX" Qsmc="华安证券"/>
+		<ITEM Qsid="83" Qsjc="GSZQ" Qsmc="国盛证券"/>
+		<ITEM Qsid="84" Qsjc="ZJZXJT" Qsmc="中信浙江"/>
+		<ITEM Qsid="85" Qsjc="SCHX" Qsmc="宏信证券"/>
+		<ITEM Qsid="89" Qsjc="WLZQ" Qsmc="万联证券"/>
+		<ITEM Qsid="90" Qsjc="LNZT" Qsmc="中天证券"/>
+		<ITEM Qsid="92" Qsjc="NMHT" Qsmc="恒泰证券"/>
+		<ITEM Qsid="93" Qsjc="TFZQ" Qsmc="天风证券"/>
+		<ITEM Qsid="94" Qsjc="GSHL" Qsmc="华龙证券"/>
+		<ITEM Qsid="95" Qsjc="RXZQ" Qsmc="日信证券"/>
+		<ITEM Qsid="96" Qsjc="ZHZQ" Qsmc="中航证券"/>
+		<ITEM Qsid="98" Qsjc="CTZQ" Qsmc="财通证券"/>
+		<ITEM Qsid="102" Qsjc="SHHT" Qsmc="海通证券"/>
+		<ITEM Qsid="103" Qsjc="DWZQ" Qsmc="东吴证券"/>
+		<ITEM Qsid="104" Qsjc="ZJZS" Qsmc="浙商证券"/>
+		<ITEM Qsid="106" Qsjc="LXZQ" Qsmc="联讯证券"/>
+		<ITEM Qsid="107" Qsjc="SHHX" Qsmc="上海华信"/>
+		<ITEM Qsid="109" Qsjc="XZTX" Qsmc="西藏同信"/>
+		<ITEM Qsid="110" Qsjc="ZYZQ" Qsmc="中原证券"/>
+		<ITEM Qsid="111" Qsjc="BJGD" Qsmc="国都证券"/>
+		<ITEM Qsid="114" Qsjc="ZJZQ" Qsmc="中金证券"/>
+		<ITEM Qsid="116" Qsjc="SXZY" Qsmc="中邮证券"/>
+	</QsTags>
+	<Common>
+		<Main AppTitle="通达信网上交易V6"/>
+		<Debug Dump="NO" Trace="NO" Log="NO"/>
+		<VersionCheck Enable="YES" CheckMode="0"/>
+		<DigitSign Enable="YES"/>
+		<Update UpdateURL=""/>
+	</Common>
+	<Language Default=""/>
+	<ImagePackage Normal16="IMAGELIST16.BMP" Normal32="IMAGELIST32.BMP">
+		<ITEM Name="Other" Normal16="other16.bmp" Normal32="other32.bmp"/>
+	</ImagePackage>
+	<Theme BarPaintTheme="8" SkinFramework="NO" Default="Vista" UIStyle="0">
+		<ITEM ID="Le5" NeutralName="Le5方案" ModuleName="" Style="Le5.styles" SizeM="NormalBlue.ini" SizeL="NormalBlue.ini" SizeXL="NormalBlue.ini"/>
+		<ITEM ID="Vista" NeutralName="Vista方案" ModuleName="" Style="Vista.styles" SizeM="NormalBlue.ini" SizeL="NormalBlue.ini" SizeXL="NormalBlue.ini"/>
+		<ITEM ID="RDragon" NeutralName="RDragon方案" ModuleName="" Style="RDragon.styles" SizeM="Normal.ini" SizeL="LARGEFON.ini" SizeXL="EXTRALAR.ini"/>
+	</Theme>
+	<Addin>
+		<ITEM FileName="AddinUtility.dll" Pivotal="YES" Enable="YES"/>
+		<ITEM FileName="AddinCommonControl.dll" Pivotal="YES" Enable="YES"/>
+		<ITEM FileName="AddinSafeControl.dll" Pivotal="YES" Enable="YES"/>
+		<ITEM FileName="AddinTList.dll" Pivotal="YES" Enable="YES"/>
+		<ITEM FileName="AddinCA.dll" Pivotal="YES" Enable="YES"/>
+		<ITEM FileName="AddinMiniQuote.dll" Pivotal="YES" Enable="YES"/>
+		<ITEM FileName="AddinStock.dll" Pivotal="NO" Enable="YES"/>
+		<ITEM FileName="AddinSds.dll" Pivotal="NO" Enable="yes"/>
+		<ITEM FileName="AddinVip.dll" Pivotal="NO" Enable="yes"/>
+		<ITEM FileName="AddinYzzz.dll" Pivotal="NO" Enable="YES"/>
+		<ITEM FileName="AddinViplc.dll" Pivotal="NO" Enable="YES"/>
+		<ITEM FileName="AddinPush.dll" Pivotal="YES" Enable="yes"/>
+		<ITEM FileName="AddinCredit.dll" Pivotal="NO" Enable="YES"/>
+		<ITEM FileName="AddinXYCA.dll" Pivotal="NO" Enable="YES"/>
+	</Addin>
+	<LoginExtend>
+		<ITEM StepName="写入缓存信息" FeatureID="Gina.WriteCookies2" Enable="YES"/>
+		<ITEM StemName="注册推送" FeatureID="GINA.Push" Enable="yes"/>
+	</LoginExtend>
+	<LogoutExtend/>
+	<AutoRunExtend>
+		<ITEM StepName="股东银行查询" FeatureID="AutoRun.GdYhCx" Enable="YES"/>
+	</AutoRunExtend>
+	<TcNoteUtility/>
+	<TcHomeUtility WelcomeFeatureID="" StartFeatureID="" Bkgd="Zszq.gif"/>
+	<TcPivotalFeature/>
+	<Cache Enable="NO">
+		<GDDM Cache="YES" ValidDays="1"/>
+		<YHXX Cache="YES" ValidDays="1"/>
+	</Cache>
+	<Network>
+		<Version ClientType="" ClientVersion="1.28" CliType="" VipTermFlag="0"/>
+		<Patch DownPatch="0"/>
+		<Timeout BalanceTimeout="8000" ConnectTimeout="8000" JobTimeout="8000"/>
+		<Connect AutoConnectNext="YES" ConnectNextPrompt="NO" RememberNew="YES" ShowImmi="YES"/>
+		<Optimize DisconnectOnIdle="NO" DisconnIdleTime="300" DisconnectOnLock="NO" DisconnectOnIconic="NO"/>
+		<ReconnNotify ConnLostNotify="0" ReconnDoneNotify="0" ReconnFailNotify="0"/>
+		<ReconnPolicy ReconnJustNow="1" ReconnOnRequired="1" ReconnWhenFront="0" ReconnJumpType="2"/>
+		<ReconnTimer ReconnOnTimer="1" ReconnSpan="5" MaxReconnTimes="0"/>
+		<Flow MaxQueueDepth="10"/>
+		<Packet ReqSegmentSize="128" AckSegmentSize="-1"/>
+	</Network>
+	<ScrSaver>
+		<Option LockOnIconic="0" HideOnLock="0"/>
+	</ScrSaver>
+	<OptionDlg>
+		<Option Resize="NO" TabMode="NO"/>
+	</OptionDlg>
+	<UI>
+		<UIDList Height="200" width="200" BoxWidth="300">
+			<Option SHOW_ZHXX="1" SHOW_QXXX="1" PROTECT_UNAME="1" PROTECT_BNAME="1"/>
+		</UIDList>
+		<MenuBar>
+			<Option Visible="NO" SmartLayout="NO" LargeSize="NO"/>
+			<Content/>
+		</MenuBar>
+		<ToolBar>
+			<Option Visible="NO" SmartLayout="YES" LargeSize="YES"/>
+			<Content/>
+		</ToolBar>
+		<Nav>
+			<Option Visible="NO" RememberLast="YES" AutoTrack="NO" ShowHotKey="YES"/>
+			<Styles Appearance="10" Position="0" ShowIcon="NO" OneNoteColor="NO" Compressed="NO"/>
+			<UIDList Height="200" Width="200" BoxWidth="200" Format=""/>
+			<Content DirImage="5" DirExpandImage="28" ItemImage="7">
+				<ITEM ID="股票" FeatureID="group.stock" HomeFeatureID="" Title="股票">
+					<ITEM ID="Stock.Buy" FeatureID="Stock.Buy" Title="买入" Image="8" HotKeyTc="F1"/>
+					<ITEM ID="Stock.Sell" FeatureID="Stock.Sell" Title="卖出" Image="9" HotKeyTc="F2"/>
+					<ITEM ID="Stock.marketBuy" FeatureID="Stock.marketBuy" Title="市价买入" Image="8"/>
+					<ITEM ID="Stock.marketsell" FeatureID="Stock.marketsell" Title="市价卖出" Image="9"/>
+					<ITEM ID="Stock.BUYSELL" FeatureID="Stock.BUYSELL" Title="对买对卖" Image="10"/>
+					<ITEM ID="Stock.wtcd" FeatureID="Stock.wtcd" Title="撤单" Image="14" HotKeyTc="F3"/>
+					<ITEM ID="query" FeatureID="AlwaysOn" Title="查询" Image="22">
+						<ITEM ID="Stock.zjgf" FeatureID="Stock.zjgf" Title="资金股份" Image="28" HotKeyTc="F4"/>
+						<ITEM ID="Stock.drwtcx" FeatureID="Stock.drwtcx" Title="当日委托" Image="28"/>
+						<ITEM ID="Stock.drcjcx" FeatureID="Stock.drcjcx" Title="当日成交" Image="28" HotKeyTc="F5"/>
+						<ITEM ID="Stock.zjmxcx" FeatureID="Stock.zjmxcx" Title="资金明细" Image="28"/>
+						<ITEM ID="Stock.zjls" FeatureID="Stock.zjls" Title="资金流水" Image="28"/>
+						<ITEM ID="Stock.lscjcx" FeatureID="Stock.lscjcx" Title="历史成交" Image="28"/>
+						<ITEM ID="Stock.xgph" FeatureID="Stock.xgph" Title="新股配号" Image="28"/>
+						<ITEM ID="Stock.dzd" FeatureID="Stock.dzd" Title="对帐单" Image="28"/>
+						<ITEM ID="Stock.jgd" FeatureID="Stock.jgd" Title="交割单" Image="28"/>
+						<ITEM ID="Stock.wthzcx" FeatureID="Stock.wthzcx" Title="当日委托汇总" Image="28"/>
+						<ITEM ID="Stock.cjhzcx" FeatureID="Stock.cjhzcx" Title="当日成交汇总" Image="28"/>
+						<ITEM ID="Stock.lscjhzcx" FeatureID="Stock.lscjhzcx" Title="历史成交汇总" Image="28"/>
+					</ITEM>
+					<ITEM ID="yzyw" FeatureID="AlwaysOn" Title="银证业务" Image="22">
+						<ITEM ID="Yzzz" FeatureID="Yzzz" Title="银证转账" Image="14"/>
+						<ITEM ID="Yhye" FeatureID="Yhye" Title="银行余额" Image="26"/>
+						<ITEM ID="Zzcx" FeatureID="Zzcx" Title="转账查询" Image="27"/>
+					</ITEM>
+					<ITEM ID="lof" FeatureID="AlwaysOn" Title="场内开放式基金" Image="22">
+						<ITEM ID="Stock.lofjjrg" FeatureID="Stock.lofjjrg" Title="基金认购" Image="26"/>
+						<ITEM ID="Stock.lofjjsg" FeatureID="Stock.lofjjsg" Title="基金申购" Image="26"/>
+						<ITEM ID="Stock.lofjjsh" FeatureID="Stock.lofjjsh" Title="基金赎回" Image="26"/>
+					</ITEM>
+					<ITEM ID="otherwt" FeatureID="AlwaysOn" Title="其它委托" Image="22">
+						<ITEM ID="Stock.SingleBuylots" FeatureID="Stock.SingleBuylots" Title="单帐户批量买入" Image="8"/>
+						<ITEM ID="Stock.SingleSellLots" FeatureID="Stock.SingleSellLots" Title="单帐户批量卖出" Image="9"/>
+						<ITEM ID="Stock.ymd" FeatureID="Stock.ymd" Title="预埋单" Image="10"/>
+						<ITEM ID="Stock.yjwt" FeatureID="Stock.yjwt" Title="预警委托" Image="10"/>
+					</ITEM>
+					<ITEM ID="Stock.xgmm" FeatureID="Stock.xgmm" Title="修改密码" Image="24"/>
+					<ITEM ID="Stock.gdlb" FeatureID="Stock.gdlb" Title="股东列表" Image="26"/>
+				</ITEM>
+				<ITEM ID="股票" FeatureID="group.VIPStock" HomeFeatureID="" OnlySupportQSID="银河VIP" Title="股票VIP">
+					<ITEM ID="Stock.Buy" FeatureID="Stock.Buy" Title="买入" Image="8"/>
+					<ITEM ID="Stock.Sell" FeatureID="Stock.Sell" Title="卖出" Image="9"/>
+					<ITEM ID="Stock.wtcd" FeatureID="Stock.wtcd" Title="撤单" Image="14"/>
+					<ITEM ID="query" FeatureID="AlwaysOn" Title="查询">
+						<ITEM ID="Stock.zjgf" FeatureID="Stock.zjgf" Title="资金股份"/>
+						<item ID="Stock.zjmxcx" FeatureID="Stock.zjmxcx" Title="资金查询"/>
+						<ITEM ID="Stock.drwtcx" FeatureID="Stock.drwtcx" Title="当日委托"/>
+						<ITEM ID="Stock.drcjcx" FeatureID="Stock.drcjcx" Title="当日成交"/>
+						<ITEM id="Stock.cjhzcx" FeatureID="Stock.cjhzcx" Title="当日成交汇总查询"/>
+						<ITEM ID="Stock.wthzcx" FeatureID="Stock.wthzcx" Title="当日委托汇总查询"/>
+						<ITEM ID="Stock.gdlb" FeatureID="Stock.gdlb" Title="股东列表"/>
+					</ITEM>
+					<ITEM ID="ZQHG" FeatureID="AlwaysOff" Title="质押回购">
+						<ITEM ID="Stock.buyhg" FeatureID="Stock.buyhg" Title="融资回购"/>
+						<ITEM ID="Stock.sellhg" FeatureID="Stock.sellhg" Title="融券回购"/>
+						<ITEM ID="Stock.sellzyrk" FeatureID="Stock.sellzyrk" Title="质押入库"/>
+						<ITEM ID="Stock.buyzyck" FeatureID="Stock.buyzyck" Title="质押出库"/>
+						<ITEM ID="Stock.ZQHGHYCX" FeatureID="Stock.ZQHGHYCX" Title="质押库明细查询"/>
+						<ITEM ID="Stock.bzqhzcx" FeatureID="Stock.bzqhzcx" Title="标准券查询"/>
+						<ITEM ID="Stock.zqzykc" FeatureID="Stock.zqzykc" Title="未到期回购查询"/>
+					</ITEM>
+					<ITEM ID="Stock.sjwt" FeatureID="AlwaysOff" Title="市价委托">
+						<ITEM ID="Stock.marketBuy" FeatureID="Stock.marketBuy" Title="市价买入" Image="8"/>
+						<ITEM ID="Stock.marketsell" FeatureID="Stock.marketsell" Title="市价卖出" Image="9"/>
+					</ITEM>
+					<ITEM ID="Stock.plwt" FeatureID="AlwaysOff" Title="批量委托">
+						<ITEM ID="Stock.SingleDDFCB" FeatureID="Stock.SingleDDFCB" title="单账户批量买入" Image="8"/>
+						<ITEM ID="Stock.SingleDDFCS" FeatureID="Stock.SingleDDFCS" title="单账户批量卖出" Image="9"/>
+					</ITEM>
+					<ITEM ID="Stock.BUYSELL" FeatureID="Stock.BUYSELL" Title="双向委托"/>
+					<ITEM ID="yzyw" FeatureID="AlwaysOn" Title="资金划转">
+						<ITEM ID="Stock.KSZJHZ" FeatureID="Stock.KSZJHZ" Title="资金划拨"/>
+					</ITEM>
+					<ITEM ID="lof" FeatureID="AlwaysOn" Title="其它委托">
+						<ITEM ID="Stock.ymd" FeatureID="Stock.ymd" Title="预埋单"/>
+						<ITEM ID="Stock.yjwt" FeatureID="Stock.yjwt" Title="预警委托"/>
+						<ITEM ID="Stock.zdyzht" FeatureID="Stock.zdyzht" Title="自定义组合通设置"/>
+						<ITEM ID="Stock.zdyzhtwtex" FeatureID="Stock.zdyzhtwtex" Title="自定义组合通买卖"/>
+						<ITEM ID="Stock.zdyzhthz" FeatureID="Stock.zdyzhthz" Title="自定义组合通汇总"/>
+					</ITEM>
+				</ITEM>
+				<ITEM ID="机构" FeatureID="group.vips" Title="VIP交易">
+					<ITEM ID="multifastlogin" FeatureID="vips.multifastlogin" Title="多帐户快速登录" Image="24"/>
+					<ITEM ID="vips.multihbuysell" FeatureID="vips.multihbuysell" Title="VIP闪电手委托" Image="10"/>
+					<ITEM ID="vipcd" FeatureID="AlwaysOn" Title="撤单" Image="22">
+						<ITEM ID="vips.tjcd" FeatureID="vips.tjcd" Title="多账户撤单" Image="14"/>
+						<ITEM ID="multicd" FeatureID="vips.Multicd" Title="批次撤单" Image="14"/>
+					</ITEM>
+					<ITEM ID="vips.zhqc" FeatureID="vips.zhqc" Title="多账户清仓" Image="9"/>
+					<ITEM ID="vipcx" FeatureID="AlwaysOn" Title="查询" Image="22">
+						<ITEM ID="vips.gfcx" FeatureID="vips.gfcx" Title="资金股份查询" Image="28"/>
+						<ITEM ID="vips.wtcx" FeatureID="vips.wtcx" Title="当日委托查询" Image="28"/>
+						<ITEM ID="vips.cjcx" FeatureID="vips.cjcx" Title="当日成交查询" Image="28"/>
+					</ITEM>
+					<ITEM ID="vipzjhz" FeatureID="AlwaysOn" Title="VIP资金划转" Image="22">
+						<ITEM ID="Yzzz" FeatureID="VIPZjhr" Title="VIP可用资金转入" Image="8"/>
+						<ITEM ID="Yhye" FeatureID="VIPZjhc" Title="VIP可用资金转出" Image="9"/>
+						<ITEM ID="Zzcx" FeatureID="VIPHZCX" Title="VIP划转查询" Image="28"/>
+					</ITEM>
+					<ITEM ID="cljy" FeatureID="AlwaysOn" Title="策略交易" Image="22">
+						<ITEM ID="Stock.ytd" FeatureID="Stock.ytd" Title="策略预埋单" Image="10"/>
+						<ITEM ID="vips.SingleBuy" FeatureID="vips.SingleBuy" Title="单帐户策略买入" Image="8"/>
+						<ITEM ID="vips.SingleSell" FeatureID="vips.SingleSell" Title="单帐户策略卖出" Image="9"/>
+						<ITEM ID="multibuy" FeatureID="vips.MultiBuy" Title="多帐户策略买入" Image="8"/>
+						<ITEM ID="multisell" FeatureID="vips.MultiSell" Title="多帐户策略卖出" Image="9"/>
+					</ITEM>
+					<ITEM ID="vipxgsg" FeatureID="AlwaysOn" Title="新股申购" Image="22">
+						<ITEM ID="xgsgset" FeatureID="vips.xgsgset" Title="新股申购计划" Image="26"/>
+						<ITEM ID="singlexgsg" FeatureID="vips.singlexgsg" Title="单帐户新股申购" Image="26"/>
+						<ITEM ID="multixgsg" FeatureID="vips.multixgsg" Title="多帐户新股申购" Image="26"/>
+					</ITEM>
+					<ITEM ID="dzhzht" FeatureID="AlwaysOn" Title="多帐户组合通" Image="22">
+						<ITEM ID="zhtbj" FeatureID="vips.zdyzht" Title="组合通编辑" Image="24"/>
+						<ITEM ID="MultiZhtBuy" FeatureID="vips.MultiZhtBuy" Title="多帐户组合通买入" Image="8"/>
+						<ITEM ID="MultiZhtSell" FeatureID="vips.MultiZhtSell" Title="多帐户组合通卖出" Image="9"/>
+					</ITEM>
+					<ITEM ID="multilogin" FeatureID="vips.multilogin" Title="多帐户登录设置" Image="24"/>
+					<ITEM ID="vips.multixgmm" FeatureID="vips.multixgmm" Title="多帐户修改密码" Image="24"/>
+				</ITEM>
+				<ITEM ID="信用" FeatureID="group.credit" Title="信用" BKGD="RGB(255,255,255)">
+					<ITEM ID="Credit.Buy" FeatureID="Credit.Buy" NOSupportQSID="渤海信用" Title="买入" Image="8" HotKeyTc="F1"/>
+					<ITEM ID="Credit.Sell" FeatureID="Credit.Sell" NOSupportQSID="渤海信用" Title="卖出" Image="9" HotKeyTc="F2"/>
+					<ITEM ID="Credit.Buy" FeatureID="Credit.DBPMR" OnlySupportQSID="渤海信用" Title="担保品买入" Image="8"/>
+					<ITEM ID="Credit.Sell" FeatureID="Credit.DBPMC" OnlySupportQSID="渤海信用" Title="担保品卖出" Image="9"/>
+					<ITEM ID="Credit.Dbphz" FeatureID="Credit.Dbphz" Title="担保品划转" Image="10"/>
+					<ITEM ID="Credit.Yqhz" FeatureID="Credit.Yqhz" Title="余券划转" Image="10"/>
+					<ITEM ID="Credit.wtcd" FeatureID="Credit.wtcd" Title="撤单" Image="14" HotKeyTc="F3"/>
+					<ITEM ID="CreditStock" FeatureID="AlwaysOn" Title="融资" Image="22">
+						<ITEM ID="Credit.Rzbuy" FeatureID="Credit.Rzbuy" Title="融资买入" Image="8" HotKeyTc="F5"/>
+						<ITEM ID="Credit.hk" FeatureID="Credit.hk" Title="现金还款" Image="10"/>
+						<ITEM ID="Credit.mqhk" FeatureID="Credit.mqhk" Title="卖券还款" Image="10"/>
+					</ITEM>
+					<ITEM ID="CreditStock" FeatureID="AlwaysOn" Title="融券" Image="22">
+						<ITEM ID="Credit.Rqsell" FeatureID="Credit.Rqsell" Title="融券卖出" Image="9" HotKeyTc="F6"/>
+						<ITEM ID="Credit.Mqhq" FeatureID="Credit.Mqhq" Title="买券还券" Image="10"/>
+						<ITEM ID="Credit.Xqhq" FeatureID="Credit.Xqhq" Title="现券还券" Image="10"/>
+					</ITEM>
+					<ITEM ID="Credit.szzdhk" FeatureID="Credit.szzdhk11" Title="自动还款设置" Image="24"/>
+					<ITEM ID="query" FeatureID="AlwaysOn" Title="查询" Image="22">
+						<ITEM ID="Credit.zjgf" FeatureID="Credit.zjgf" Title="资金股份" Image="28" HotKeyTc="F4"/>
+						<ITEM ID="Credit.drwtcx" FeatureID="Credit.drwtcx" Title="当日委托" Image="28"/>
+						<ITEM ID="Credit.drcjcx" FeatureID="Credit.drcjcx" Title="当日成交" Image="28"/>
+						<ITEM ID="Credit.xygfcx" FeatureID="Credit.xygfcx11" Title="信用股份查询" Image="28"/>
+						<ITEM ID="Credit.xyhycx" FeatureID="Credit.xyhycx11" Title="未平仓合约查询" Image="28"/>
+						<ITEM ID="Credit.xyhyypc" FeatureID="Credit.xyhyypc11" Title="已平仓合约查询" Image="28"/>
+						<ITEM ID="Credit.xyhyypc" FeatureID="Credit.xyrzhycx" Title="融资合约查询" Image="28"/>
+						<ITEM ID="Credit.xyhyypc" FeatureID="Credit.xyrqhycx" Title="融券合约查询" Image="28"/>
+						<Item ID="Credit.gxxyzccx" FeatureID="Credit.xyzhxx" Title="综合信息查询" Image="28"/>
+						<ITEM ID="Credit.xybdzq" FeatureID="Credit.xybdzq" Title="标的证券查询" Image="28"/>
+						<ITEM ID="Credit.xydbpzq" FeatureID="Credit.xydbpzq11" Title="担保品证券查询" Image="28"/>
+						<ITEM ID="Credit.gxxydbpzq" FeatureID="Credit.gxxydbpzq11" Title="担保品证券查询" Image="28"/>
+						<ITEM ID="Credit.lscjcx" FeatureID="Credit.lscjcx" Title="历史成交查询" Image="28"/>
+						<ITEM ID="Credit.lswtcx" FeatureID="Credit.lswtcx" Title="历史委托查询" Image="28"/>
+						<ITEM ID="Credit.zjls" FeatureID="Credit.zjls" Title="资金流水" Image="28"/>
+					</ITEM>
+					<ITEM ID="yzyw" FeatureID="AlwaysOn" Title="银证业务" Image="22">
+						<ITEM ID="yzzz" FeatureID="yzzz" Title="银证转账" Image="14"/>
+						<ITEM ID="yhye" FeatureID="yhye" Title="银行余额" Image="26"/>
+						<ITEM ID="zzcx" FeatureID="zzcx" Title="转账查询" Image="27"/>
+					</ITEM>
+					<ITEM ID="xgmm" FeatureID="xgmm" Title="修改密码" Image="24"/>
+					<ITEM ID="Credit.gdlb" FeatureID="Credit.ptgd" Title="股东列表" Image="26"/>
+				</ITEM>
+			</Content>
+		</Nav>
+		<MainViewBar>
+			<Option Visible="YES" SmartLayout="NO"/>
+			<Content>
+				<ITEM ID="Buy" Type="4" FeatureID="Stock.Buy" GroupFeatureID="group.stock" Title="买入" Color="RGB(0,0,0)" HotColor="RGB(255,0,0)"/>
+				<ITEM ID="Sell" Type="4" FeatureID="Stock.Sell" GroupFeatureID="group.stock" Title="卖出" Color="RGB(0,0,0)" HotColor="RGB(0,128,0)"/>
+				<ITEM ID="Cancel" Type="4" FeatureID="Stock.wtcd" GroupFeatureID="group.stock" Title="撤单" Color="RGB(0,0,0)" HotColor="RGB(0,0,255)"/>
+				<ITEM ID="Bargain" Type="4" FeatureID="Stock.drcjcx" GroupFeatureID="group.stock" Title="成交" Color="RGB(0,0,0)" HotColor="RGB(0,0,255)"/>
+				<ITEM ID="Position" Type="4" FeatureID="Stock.zjgf" GroupFeatureID="group.stock" Title="持仓" Color="RGB(0,0,0)" HotColor="RGB(0,0,255)"/>
+                                <ITEM ID="multilogin" Type="4" FeatureID="vips.multilogin" Title="多帐户登录设置" Color="RGB(255,0,0)" HotColor="RGB(0,0,255)"/>
+				<ITEM ID="multifastlogin" Type="4" FeatureID="vips.multifastlogin" Title="多帐户快速登录" Color="RGB(255,0,0)" HotColor="RGB(0,0,255)"/>
+				<ITEM ID="Rzbuy" Type="4" FeatureID="Credit.Rzbuy" GroupFeatureID="group.Credit" Title="融资买入" Color="RGB(0,0,0)" HotColor="RGB(255,0,0)"/>
+				<ITEM ID="Rqsell" Type="4" FeatureID="Credit.Rqsell" GroupFeatureID="group.Credit" Title="融券卖出" Color="RGB(0,0,0)" HotColor="RGB(255,0,0)"/>
+				<ITEM ID="Cancel" Type="4" FeatureID="Credit.wtcd" GroupFeatureID="group.Credit" Title="撤单" Color="RGB(0,0,0)" HotColor="RGB(0,0,255)"/>
+				<ITEM ID="drwtcx" Type="4" FeatureID="Credit.drwtcx" GroupFeatureID="group.Credit" Title="当日委托" Color="RGB(0,0,0)" HotColor="RGB(255,0,0)"/>
+				<ITEM ID="drcjcx" Type="4" FeatureID="Credit.drcjcx" GroupFeatureID="group.Credit" Title="当日成交" Color="RGB(0,0,0)" HotColor="RGB(255,0,0)"/>
+				<ITEM ID="RefreshForce" Type="4" FeatureID="vips.RefreshForce" Title="刷新" Color="RGB(0,0,0)"/>
+				<ITEM ID="asyncwt" Type="4" FeatureID="vips.asyncwtone" GroupFeatureID="group.vips" Title="同步异地委托" Color="RGB(0,0,0)"/>
+				<ITEM ID="CaptionBar" CmdUIID="basic.CaptionBar" Title="标题"/>
+				<ITEM ID="EnterScrSaver" Type="4" FeatureID="basic.EnterScrSaver" Title="锁定" Color="RGB(255,0,0)"/>
+				<ITEM ID="SystemInfo" Type="4" FeatureID="basic.SystemInfo" Title="系统" Color="RGB(0,0,0)">
+					<ITEM ID="SystemOptions" FeatureID="basic.SystemOptions" Title="交易系统设置"/>
+					<ITEM ID="Toggle" FeatureID="basic.Toggle" Title="浮动/停靠界面"/>
+					<ITEM ID="SystemStatus" FeatureID="basic.SystemStatus" Group="1" Title="系统状态"/>
+					<ITEM ID="SystemTips" FeatureID="basic.SystemTips" Title="系统提示"/>
+					<ITEM ID="SystemCallboard" FeatureID="basic.SystemCallboard" Title="系统公告"/>
+				</ITEM>
+				<ITEM ID="MultiAccounts" Type="4" FeatureID="basic.MultiAccounts" Title="多帐号" Color="RGB(0,0,0)">
+					<ITEM ID="AddAccount" FeatureID="basic.AddAccount" Title="添加其它帐号"/>
+					<ITEM ID="DelAccount" FeatureID="basic.DelAccount" Title="退出当前帐号"/>
+				</ITEM>
+				<ITEM ID="AccountsList" CmdUIID="vips.AccountsList" HideWrap="NO" Title="帐号列表"/>
+				<ITEM ID="Minimize" CmdUIID="basic.MinimizeBox" HideWrap="NO" Title="最小化"/>
+				<ITEM ID="Maximize" CmdUIID="basic.MaximizeBox" HideWrap="NO" Title="最大化"/>
+				<ITEM ID="SystemQuit" CmdUIID="basic.CloseBox" HideWrap="NO" Title="关闭"/>
+			</Content>
+		</MainViewBar>
+		<StatusBar>
+			<Option Visible="NO"/>
+			<Content/>
+		</StatusBar>
+		<BannerBar>
+			<Option Visible="NO" SmartLayout="YES"/>
+			<Content/>
+		</BannerBar>
+	</UI>
+	<DefaultProfileOfUser>
+		<Colors C11="RGB(100,100,0)"/>
+		<SysSet>
+			<OTHER HQUPDATE="8" HQRETRYNUM="5" CLEAN="1" FILLPRICE="1" SENDMSGTOHQ="1" DRCJNOCD="1" BuySuccess_AddZxg="1" TIMEOUT="25" LOCKTIME="30" SHOWZHINFO="1" FASTCHECK="1" VIRTKEY="67" COMBOKEY="6" GETGTZDKM="0" FASTJYTYPE="1" BCURSOR="0" QUERYTIP="1" UseAdvJy="1">
+				<FASTJYNORMAL CHECKPWD="1" GPAUTOCONFIRM="1" HIDELOCK="1" JYConfirm="1" LevinThenWTCX="1" SJCDNOCONFIRM="0" YMSENDNOCONFIRM="0"/>
+				<FASTJYFAST CHECKPWD="0" GPAUTOCONFIRM="1" HIDELOCK="0" JYConfirm="1" LevinThenWTCX="1" SJCDNOCONFIRM="0" YMSENDNOCONFIRM="0"/>
+				<FASTJYFASTEST CHECKPWD="0" GPAUTOCONFIRM="1" HIDELOCK="0" JYConfirm="0" LevinThenWTCX="0" SJCDNOCONFIRM="1" YMSENDNOCONFIRM="1"/>
+				<FASTJYCUSTOM CHECKPWD="0" GPAUTOCONFIRM="1" HIDELOCK="0" JYConfirm="0" LevinThenWTCX="1" SJCDNOCONFIRM="0" YMSENDNOCONFIRM="0"/>
+			</OTHER>
+			<HOTKEY INFO="1"/>
+			<ZJZHFIX BENABLE="0" WS="4" QZ=""/>
+			<TRADESET USE="0" BUYUP="5.000000" SELLOW="5.000000" BUYSUM="100000" MINBUYVOL="100" BMINBUYVOL="0" MINSELLVOL="100" BMINSELLVOL="0" LASTBUYCW="0" lastsellcw="0"/>
+			<AUTOTRACE USE="0" BINDEX="4" SINDEX="5"/>
+			<AUTOFC GPUSE="0" HGUSE="0" ZQUSE="0" QZUSE="0" GPVOL="1" HGVOL="1" ZQVOL="1" QZVOL="1" GPSJNUM="1" HGSJNUM="1" ZQSJNUM="1" QZSJNUM="1" QZFCTIP="1" LEVINFC="0"/>
+			<LEVINCFG CJWTNOICON="0" BUYVOLFLAG="0" FIXBUYMONEY="100000.000000" FIXBUYVOL="10000" FIXSELLVOL="10000" SELLVOLFLAG="0" EXT_DBPRICE="0" EXT_TRADEALL="0"/>
+		</SysSet>
+	</DefaultProfileOfUser>
+</ProfileOfOEM>
